@@ -3,7 +3,7 @@ from langchain_ollama.llms import OllamaLLM
 import streamlit as st
 
 
-st.title("FlemingoBot")
+st.title("WebBot")
 
 template = """Question: {question}
 
