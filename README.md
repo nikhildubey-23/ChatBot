@@ -5,8 +5,11 @@ After its download start your server of ollama using command ollama start in you
 Then open new terminal and use the command ollama pull llama3.1
 
 After that visit a app.py file and if you want you can update it by youself as you want
-
-For to run the file in your browser using the command 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+For to run app.py  file in your browser using the command 
 	streamlit run app.py
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+for to run clibot.py use the command python3 clibot.py
 
     
