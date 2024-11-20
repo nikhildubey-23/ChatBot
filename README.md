@@ -49,14 +49,14 @@ To run the chatbot with a graphical interface in your browser:
 1. Open `app.py`. Modify it as needed for customization.  
 2. Run the following command:  
    ```bash
-   streamlit run app.py
+   streamlit run webBot.py
    ```
 
 ### CLI Mode  
 To run the chatbot in the terminal:  
 1. Use the following command:  
    ```bash
-   python3 clibot.py
+   python3 CliBot.py
    ```
 
 ---
