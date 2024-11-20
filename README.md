@@ -1,4 +1,7 @@
 
+
+---
+
 # ChatBot
 
 ## Overview  
@@ -7,6 +10,13 @@ This project provides a chatbot implementation with two modes:
 - **CLI Mode** (for terminal-based interaction).  
 
 Follow the steps below to set up and run the ChatBot.
+
+---
+
+## System Requirements  
+To ensure optimal performance, your system should meet the following minimum requirements:  
+- **RAM**: 16 GB  
+- **Processor**: 4-core CPU  
 
 ---
 
@@ -46,7 +56,7 @@ ollama pull llama3.1
 
 ### GUI Mode  
 To run the chatbot with a graphical interface in your browser:  
-1. Open `app.py`. Modify it as needed for customization.  
+1. Open `webBot.py`. Modify it as needed for customization.  
 2. Run the following command:  
    ```bash
    streamlit run webBot.py
@@ -62,7 +72,7 @@ To run the chatbot in the terminal:
 ---
 
 ## Notes  
-- Feel free to customize the `app.py` file to meet your specific needs.  
+- Feel free to customize the `webBot.py` file to meet your specific needs.  
 - Ensure that the Ollama server is running before executing any chatbot commands.
 
 ---
@@ -77,5 +87,4 @@ If you encounter any issues:
 
 Enjoy using the ChatBot! 😊
 
-
-    
+---
